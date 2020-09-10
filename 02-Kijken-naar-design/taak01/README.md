@@ -14,8 +14,11 @@ Bekijk de onderstaande websites en beantwoord de vragen
 > - [Twitch](https://www.twitch.tv/)
 
 1. Noem twee overeenkomsten van deze sites.
+Je zoekt er dingen op. / er is een zoek functie.
 2. Noem drie verschillen maar laat de kleuren en lettertypes buiten je opsomming.
+wat je er op doet / twitch is meer interactief / twitch is ook niet voor nieuws.
 3. Welke verbeteringen zou jij aanbrengen? (Noem twee verbeterpunten)
+DarkMode. / tweakers ziet er een beetje chaotisch uit als je het opstart.
 
 
 <!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
